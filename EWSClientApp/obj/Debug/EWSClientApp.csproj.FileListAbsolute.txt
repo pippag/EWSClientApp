@@ -1,0 +1,6 @@
+C:\Repo\EWSClientApp\EWSClientApp\bin\Debug\EWSClientApp.exe.config
+C:\Repo\EWSClientApp\EWSClientApp\bin\Debug\EWSClientApp.exe
+C:\Repo\EWSClientApp\EWSClientApp\bin\Debug\EWSClientApp.pdb
+C:\Repo\EWSClientApp\EWSClientApp\obj\Debug\EWSClientApp.csprojResolveAssemblyReference.cache
+C:\Repo\EWSClientApp\EWSClientApp\obj\Debug\EWSClientApp.exe
+C:\Repo\EWSClientApp\EWSClientApp\obj\Debug\EWSClientApp.pdb
